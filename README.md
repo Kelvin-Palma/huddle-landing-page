@@ -25,8 +25,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-mQ6DTvdWnq]
+- Live Site URL: [https://kelvin-palma.github.io/huddle-landing-page/]
 
 ## My process
 
